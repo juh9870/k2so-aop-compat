@@ -1,13 +1,15 @@
 {
-  "name": "[internal-mod-name]",
-  "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "name": "aop-k2so-compat",
+  "version": "1.0.0",
+  "title": "Age of Production K2SO Compat",
+  "author": "juh9870",
+  "homepage": "https://github.com/juh9870/k2so-aop-compat",
+  "description": "Opinionated compatibility between K2SO and Age of Production",
   "factorio_version": "2.0",
   "dependencies": [
-    "base"
+    "base",
+    "Krastorio2-spaced-out",
+    "Age-of-Production"
   ],
   "quality_required": false,
   "rail_bridges_required": false,
